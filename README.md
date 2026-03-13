@@ -1,1 +1,0 @@
-# Trilha-de-Estudos-NTT-Data
