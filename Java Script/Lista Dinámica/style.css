@@ -1,0 +1,16 @@
+
+body{
+    background:linear-gradient(to bottom, rgb(0, 16, 49), rgb(51, 101, 240));
+    background-attachment: fixed;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    width: 500px;
+    margin: auto;
+}
