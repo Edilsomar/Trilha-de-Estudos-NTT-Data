@@ -1,4 +1,4 @@
-function SayMayName(props){
+function SayMyName(props){
 
     return (
     <div>
@@ -6,6 +6,6 @@ function SayMayName(props){
     </div>
     )
 }
-export default SayMayName;
+export default SayMyName;
 
-// Aprendi a criar argumentos e chamalos na página principal!
+// Aprendi a criar argumentos e chama-los na página principal!
