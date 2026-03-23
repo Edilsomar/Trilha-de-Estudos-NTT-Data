@@ -56,8 +56,12 @@ Item.propTypes = {
 //   marca: PropTypes.string.isRequired,
 // }
 
-// - camelCase é padrão do JavaScript
-// - vírgula no final (trailing comma) ajuda a evitar erros
-//   e facilita adicionar novas propriedades no futuro
-// - defaultProps define valores padrão caso a prop não seja enviada
+// camelCase é padrão do JavaScript
+// vírgula no final (trailing comma) ajuda a evitar erros
+// e facilita adicionar novas propriedades no futuro
+// defaultProps define valores padrão caso a prop não seja enviada
+// não é obrigatório usar propTypes
+// mas é recomendado
+// usado pra evitar erros e organizar código
+
 
